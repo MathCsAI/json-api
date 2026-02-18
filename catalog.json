@@ -4,7 +4,7 @@
     "version": "ff917294"
   },
   "products": [
-    {"id": "prod-ff917294-001", "name": "UltraHD TV 55\"", "category": "electronics", "price": 799.99, "stock": 42, "rating": 4.7},
+    {"id": "prod-ff917294-001", "name": "UltraHD TV 55\"", "category": "tv", "price": 799.99, "stock": 42, "rating": 4.7},
     {"id": 2, "name": "Bluetooth Headphones", "category": "electronics", "price": 129.99, "stock": 85, "rating": 4.4},
     {"id": 3, "name": "Smartphone X200", "category": "electronics", "price": 999.99, "stock": 12, "rating": 4.8},
     {"id": 4, "name": "Wireless Mouse", "category": "electronics", "price": 24.99, "stock": 150, "rating": 4.3},

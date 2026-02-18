@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "email": "23f2003858@ds.study.iitm.ac.in",
+    "version": "ff917294"
+  },
+  "products": [
+    {"id": 1, "name": "UltraHD TV 55\"", "category": "electronics", "price": 799.99, "stock": 42, "rating": 4.7},
+    {"id": 2, "name": "Bluetooth Headphones", "category": "electronics", "price": 129.99, "stock": 85, "rating": 4.4},
+    {"id": 3, "name": "Smartphone X200", "category": "electronics", "price": 999.99, "stock": 12, "rating": 4.8},
+    {"id": 4, "name": "Wireless Mouse", "category": "electronics", "price": 24.99, "stock": 150, "rating": 4.3},
+    {"id": 5, "name": "Laptop Pro 15\"", "category": "electronics", "price": 1499.99, "stock": 6, "rating": 4.9},
+    {"id": 6, "name": "4K Action Camera", "category": "electronics", "price": 349.99, "stock": 23, "rating": 4.5},
+    {"id": 7, "name": "Espresso Machine", "category": "kitchen", "price": 249.99, "stock": 18, "rating": 4.6},
+    {"id": 8, "name": "Chef's Knife", "category": "kitchen", "price": 59.99, "stock": 60, "rating": 4.8},
+    {"id": 9, "name": "Blender Pro", "category": "kitchen", "price": 129.99, "stock": 34, "rating": 4.4},
+    {"id": 10, "name": "Nonstick Frying Pan", "category": "kitchen", "price": 39.99, "stock": 80, "rating": 4.2},
+    {"id": 11, "name": "Stand Mixer", "category": "kitchen", "price": 399.99, "stock": 10, "rating": 4.7},
+    {"id": 12, "name": "Electric Kettle", "category": "kitchen", "price": 49.99, "stock": 55, "rating": 4.5},
+    {"id": 13, "name": "Yoga Mat", "category": "fitness", "price": 29.99, "stock": 100, "rating": 4.6},
+    {"id": 14, "name": "Adjustable Dumbbells", "category": "fitness", "price": 199.99, "stock": 20, "rating": 4.7},
+    {"id": 15, "name": "Treadmill 3000", "category": "fitness", "price": 899.99, "stock": 5, "rating": 4.8},
+    {"id": 16, "name": "Resistance Bands Set", "category": "fitness", "price": 24.99, "stock": 75, "rating": 4.4},
+    {"id": 17, "name": "Foam Roller", "category": "fitness", "price": 19.99, "stock": 60, "rating": 4.3},
+    {"id": 18, "name": "Fitness Tracker", "category": "fitness", "price": 79.99, "stock": 40, "rating": 4.5},
+    {"id": 19, "name": "Cotton T-Shirt", "category": "apparel", "price": 14.99, "stock": 200, "rating": 4.2},
+    {"id": 20, "name": "Running Shoes", "category": "apparel", "price": 89.99, "stock": 35, "rating": 4.6},
+    {"id": 21, "name": "Denim Jeans", "category": "apparel", "price": 49.99, "stock": 60, "rating": 4.4},
+    {"id": 22, "name": "Winter Jacket", "category": "apparel", "price": 129.99, "stock": 15, "rating": 4.7}
+  ],
+  "aggregations": {
+    "electronics": {
+      "count": 6,
+      "inventoryValue": 226242.91
+    }
+  }
+}

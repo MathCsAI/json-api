@@ -28,13 +28,25 @@
     {"id": "prod-ff917294-022", "name": "Elite Item 22", "category": "books", "price": 434.42, "stock": 195, "rating": 3.5}
   ],
   "aggregations": {
-    "electronics": {
-      "count": 6,
-      "inventoryValue": 226242.91
+    "sports": {
+      "count": 3,
+      "inventoryValue": 91141.09
     },
     "clothing": {
       "count": 7,
       "inventoryValue": 101370.09
+    },
+    "home": {
+      "count": 4,
+      "inventoryValue": 101073.94
+    },
+    "electronics": {
+      "count": 6,
+      "inventoryValue": 226242.91
+    },
+    "books": {
+      "count": 2,
+      "inventoryValue": 101073.06
     }
   }
 }
